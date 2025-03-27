@@ -38,9 +38,9 @@ This project is a Python-based RESTful API for managing restaurant-related funct
 
 Create a `.env` file in the root directory with the following content:
 
-```env
-DATABASE_URL=your_database_connection_string
-SECRET_KEY=your_secret_key
+    ```env
+    DATABASE_URL=your_database_connection_string
+    SECRET_KEY=your_secret_key
 
 ## API Endpoints
 
